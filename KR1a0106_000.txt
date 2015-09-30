@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易易簡說
-#+DATE: 2015-09-23 09:35:14
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 21:58:01.932003
+#+PROPERTY: ID KR1a0106
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1a0106_WYG_000-1a>¶
 欽定四庫全書　　　　　經部一¶
 　周易易簡說　　　　　　易類¶
@@ -26,6 +28,7 @@
 　　　　十月恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　　總　校　官　(臣/)　陸　費　墀¶
+#+PROPERTY: JUAN 原序
 <pb:KR1a0106_WYG_000-3a>¶
 周易易簡説原序¶
 夫易豈難知者乎哉豈難能者乎哉天髙地下萬物散¶
@@ -47,4 +50,3 @@
 <pb:KR1a0106_WYG_000-4a>¶
 五經註于後儒易註于夫子説易者明夫子之言而明¶
 易矣¶
-

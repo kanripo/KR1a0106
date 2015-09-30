@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易易簡說
-#+DATE: 2015-09-23 09:35:14
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 21:58:01.979914
+#+PROPERTY: ID KR1a0106
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1a0106_WYG_002-1a>¶
 欽定四庫全書¶
 　周易易簡說卷二¶
@@ -1442,4 +1444,3 @@
 　飲酒之象然樂志者易于溺志至于飲酒濡首則于¶
 　有孚之道失其是矣¶
 　周易易簡說卷二¶
-
